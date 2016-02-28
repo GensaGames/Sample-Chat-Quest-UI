@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">infy</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- Tabs and Toolbar -->
+    <string name="favourites_tab">"Favourites"</string>
+    <string name="messages_tab">"Messages"</string>
+    <string name="contacts_tab">"Contacts"</string>
+    <string name="search_bar">"Search contacts &amp; messages"</string>
+
+
+    <!-- Messages Tab -->
+    <string name="text_hint_type">"Type message"</string>
+
+    <!-- Login Tab -->
+    <string name="text_hint_email">"Email address"</string>
+    <string name="text_hint_pass">"Password"</string>
+    <string name="text_button_log">"Log in"</string>
+    <string name="text_account">"Don't have an account? Create one"</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ec407a</color>
+    <color name="colorPrimaryDark">#a71a4a</color>
+    <color name="colorAccent">#a39a9f</color>
+
+    <color name="simpleWhite">#ffffff</color>
+
+    <!-- Text Color-->
+    <color name="textName">#454141</color>
+    <color name="textHint">#949090</color>
+    <color name="textLogin">#d2d0d0</color>
+    <color name="textWhite">#ffffff</color>
+    <color name="textMessage">#6b6868</color>
+    <color name="textMessageTime">#9f9a9a</color>
+
+    <!-- Background Color-->
+    <color name="mainBackground">#f2f2f2</color>
+
+</resources>
