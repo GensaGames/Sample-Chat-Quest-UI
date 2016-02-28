@@ -1,13 +1,13 @@
 <b > Sample Chat UI </b>  <br/>  <br/>
-Simple task from company - First Online Solution. Sample UI demonstrate chat. <br/>
+Simple task from company - First Online Solution. Just simple UI demonstrate chat. <br/>
 Information below what should be done to optimize the workpiece.
 
 <br/>
 <br/>
-<img src="https://gitlab.com/GensaGamesProjects/Chat-Quest-SampleUI/raw/master/screenshots/4.png" width="200" height="350" />
-<img src="https://gitlab.com/GensaGamesProjects/Chat-Quest-SampleUI/raw/master/screenshots/2.png" width="200" height="350" />
-<img src="https://gitlab.com/GensaGamesProjects/Chat-Quest-SampleUI/raw/master/screenshots/3.png" width="200" height="350" />
-<img src="https://gitlab.com/GensaGamesProjects/Chat-Quest-SampleUI/raw/master/screenshots/1.png" width="200" height="350" />
+<img src="https://raw.githubusercontent.com/GensaGames/Sample-Chat-Quest-UI/master/screenshots/4.png" width="200" height="350" />
+<img src="https://raw.githubusercontent.com/GensaGames/Sample-Chat-Quest-UI/master/screenshots/2.png" width="200" height="350" />
+<img src="https://raw.githubusercontent.com/GensaGames/Sample-Chat-Quest-UI/master/screenshots/3.png" width="200" height="350" />
+<img src="https://raw.githubusercontent.com/GensaGames/Sample-Chat-Quest-UI/master/screenshots/1.png" width="200" height="350" />
 
 <br/>
 <br/>
@@ -49,5 +49,5 @@ Information below what should be done to optimize the workpiece.
 <br/>
 
 These are the main moments which, is not currently implemented, <br/>
-but they are not complex. Other moments are unimportant, such  as  <br/>
-creating popup menus, animations and more.
+but they are essential. Other moments are unimportant, such  as  <br/>
+creating popup menus, animations and other.
